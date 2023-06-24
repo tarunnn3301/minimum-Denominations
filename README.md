@@ -10,8 +10,8 @@ Logic:
 * If a smaller number of coins is found, it updates the dp array and coins matrix accordingly.
 * Finally, it returns the minimum number of denominations and the matrix coin_count containing the number of coins for each denomination.
 * The function is tested by taking user input for the amount and then printing the minimum number of denominations and the number of coins for each denomination.
-Commands:
+* Commands:
     To run the code we have to run the following commands:
     1. Go to terminal and type python3 main.py
-Miscellaneous:
+* Miscellaneous:
     Description of almost every command used is given in comments of my python code.
